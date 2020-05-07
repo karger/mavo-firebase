@@ -96,7 +96,7 @@ Login or signup at https://console.firebase.google.com
 
 Set the [attributes](#attributes) to the values from the config.
 
-![3-add-firebase-to-your-web-app](assets/images/3-add-firebase-to-your-web-app.png "Add firebase to your web app")
+![3-add-firebase-to-your-web-app](assets/images/3-add-firebase-to-your-web-app.png "Add firebase to your web app") Use the older realtime database as the new cloud datastore doesn't work with this plugin yet.
 
 ![4-view-config](assets/images/4-view-config.png "View config")
 
